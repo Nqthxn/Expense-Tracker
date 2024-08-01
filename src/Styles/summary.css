@@ -1,0 +1,45 @@
+.expense-summary{
+    height: 200px;
+    width:450px;
+    margin-left: 55px;
+    border-radius: 15px;
+    box-shadow: 5px 8px 8px rgba(0, 0, 0, 0.1);
+}
+.balance{
+    margin-bottom: 45px;
+    position:relative;
+    background-color: rgba(229, 222, 240, 255);
+
+} 
+.total-exp{
+    margin-bottom: 45px;
+    position:relative;
+    background-color: rgba(214,237,218,255);
+}
+.top-exp{
+    position:relative;
+    background-color: rgba(246,240,216,255);
+}
+.bal-name, .exp-name{
+    position:absolute;
+    top:15px;
+    left:25px;
+    color:rgb(88, 167, 242);
+    font-weight: bold;
+    font-size: 25px;
+}
+.bal-amount, .exp-amount{
+    position:absolute;
+    top:40%;
+    left:30%;
+    font-size: 45px;
+    color:rgb(88, 167, 242);
+}
+.cents{
+    font-size: 30px;
+    color:rgb(197, 215, 232);
+}
+.exp-name, .exp-amount{
+    color:pink;
+}
+
