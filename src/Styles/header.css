@@ -1,3 +1,9 @@
-.test{
-    font-size: 50px;
+.profile{
+    width:75px;
+    margin-left:20px;
+    margin-right: 20px;
+}
+.header{
+    font-size: 27px;
+    color:rgb(244, 183, 103);
 }
