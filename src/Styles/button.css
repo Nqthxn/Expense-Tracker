@@ -30,7 +30,3 @@
     font-size: 15px;
     margin-left: 10px; 
 }
-.btn-container{
-    position:absolute;
-    z-index: inherit;
-}
