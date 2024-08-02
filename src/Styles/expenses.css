@@ -1,0 +1,26 @@
+.exp-title-container {
+    padding-bottom: 17px;
+    border-bottom: 2px solid grey;
+    margin-top: 35px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+.display-exp-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1363px;
+    height: 754px;
+}
+
+.exp-title {
+    font-size: 30px;
+    color: cadetblue;
+}
+
+.btn-container {
+    margin-top: 20px; 
+}
+

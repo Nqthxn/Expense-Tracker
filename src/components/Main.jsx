@@ -1,5 +1,5 @@
-import Summary from './ExpenseSummary';
-import Expenses from './Expenses';
+import Summary from './ExpenseSummary.jsx';
+import Expenses from './Expenses.jsx';
 
 export default function Main(){
     return(

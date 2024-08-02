@@ -1,0 +1,36 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button2 {
+    width: 250px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(184, 74, 74);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    outline: none; 
+    z-index: 10;
+}
+
+.button-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: orange;
+}
+
+.btn-name {
+    font-size: 15px;
+    margin-left: 10px; 
+}
+.btn-container{
+    position:absolute;
+    z-index: inherit;
+}

@@ -11,11 +11,8 @@ html, body{
 }
 
 .main-container{
-    height:847px;
-}
-
-.main-container{
     display:flex;
+    width:1920px;
 }
 .header-container{
     display:flex;
@@ -35,7 +32,7 @@ html, body{
     justify-content: center;
 }
 .expenses-container{
-    width:1268px;
+    width:1400px;
     position:relative;
     top:0;
     left:-10px;
@@ -47,9 +44,10 @@ html, body{
 .button-container{
     position:absolute;
     bottom:0;
-    width:1268px;
+    width:1363px;
     height:100px;
     display:flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.1);
 }
