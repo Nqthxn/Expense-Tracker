@@ -1,0 +1,39 @@
+.data-container {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+
+.expense-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 22px;
+    font-style: italic;
+    color: aquamarine;
+    width:900px;
+}
+
+.expense-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:900px;
+}
+
+.expenses {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+p {
+    font-size: 19px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 26px;
+
+}
